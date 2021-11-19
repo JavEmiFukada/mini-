@@ -38,7 +38,7 @@
   //CREATE THE DATA TABLE
   function createTable(dataArray) {
     if(dataArray){
-      var result = "<table class='table table-sm' style='font-size:0.8em'>"+
+      var result = "<table class='table table-warning table-striped table-hover 'style='font-size:0.8em'>"+
                    "<thead style='white-space: nowrap'>"+
                      "<tr>"+                               //Change table headings to match witht he Google Sheet
                      "<th scope='col'>ไอดี</th>"+
