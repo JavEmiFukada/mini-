@@ -60,23 +60,22 @@
 
    <!-- เนื้อหาแนะนำ -->
     <div class="container">
-        <div class="shadow p-3 mb-5 bg-body rounded"> <div class="fs-2"><a class="nav-link" href="">ล้างอัดฉีดคืออะไร? และทำอะไรบ้าง</a></div></div>
+        <div class="shadow p-3 mb-5 bg-body rounded"> 
+         <div class="fs-2"><a>ล้างอัดฉีดคืออะไร? และทำอะไรบ้าง</a></div></div>
           <p>- อัดฉีด - ล้างใต้ท้อง - ล้างห้องเครื่อง - แว๊กห้องเครื่อง - แว๊กหน้ายาง/ซุ้มล้อ - ดูดฝุ่น - แว๊กภายใน - พ้นน้ำมันเครื่อง</p>
               มีแต่คุ้มกับคุ้ม อยากให้ทุกคนมาลองด ไม่อวยมากแต่ยากให้มาลอง
          </div>
-    
 <br>
 
     <!-- ที่อยู่ร้าน -->
     <div class="container">
         <div class="shadow p-3 mb-5 bg-body rounded"> 
           <div class="fs-2">
-          <?var url = getUrl();?><a class="nav-link" href="https://goo.gl/maps/VimWYPjC6HGdXDDEA">ร้านอยู่ที่ไหน?่</a>
+          <div class="fs-2"><a>ร้านอยู่ที่ไหน?</a></div>
           </div>
         </div>
-        <?var url = getUrl();?><a class="nav-link" href="https://goo.gl/maps/VimWYPjC6HGdXDDEA"><img src="https://drive.google.com/uc?id=12sMTRSCIpk3-xoktdUoHq3Efiw9FHJmx" weight="300" height="300"></a>
+        <?var url = getUrl();?><a class="nav-link" href="https://goo.gl/maps/VimWYPjC6HGdXDDEA"><img src="https://drive.google.com/uc?id=1VNWud1oVPFkIS8S4QVC3mJG8_PdajWFm" weight="300" height="300"></a>
         </div>
-       
 <br>
 
     <!-- ปุ่มจองคิว -->
